@@ -542,3 +542,15 @@ dmouratidi:
  email: "dmouratidi@gmail.com"
  bio: ""
  avatar: "/assets/images/dmouratidi.jpg"
+
+akanavos:
+ name: "Ανδρέας Καναβός"
+ email: "akanavos@ionio.gr"
+ bio: ""
+ avatar: ""
+ 
+ akanavos-en:
+ name: "Andreas Kanavos"
+ email: "akanavos@ionio.gr"
+ bio: ""
+ avatar: "" 
