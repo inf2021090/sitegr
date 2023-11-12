@@ -547,10 +547,10 @@ akanavos:
  name: "Ανδρέας Καναβός"
  email: "akanavos@ionio.gr"
  bio: ""
- avatar: "/assets/images/akanavos.jpg"
+ avatar: ""
  
  akanavos-en:
  name: "Andreas Kanavos"
  email: "akanavos@ionio.gr"
  bio: ""
- avatar: "/assets/images/akanavos.jpg" 
+ avatar: "" 
